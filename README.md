@@ -1,3 +1,3 @@
-# Ruby on Rails Tutorial: First application
+# Rails Training
 
-This is the first application for the [*Ruby on Rails Tutorial](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/). YE.
+Test website based on the [*Ruby on Rails tutorials*](http://ruby.railstutorial.org/). Made by an old hobo.
